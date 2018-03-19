@@ -1,0 +1,28 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "hackathon rajasthan",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevineFlame/rajasthan_hackathon.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "hash_it_out",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevineFlame/rajasthan_hackathon/issues"
+  },
+  "homepage": "https://github.com/DevineFlame/rajasthan_hackathon#readme",
+  "dependencies": {
+    "web3": "github:ethereum/web3.js"
+  }
+}
